@@ -1,7 +1,7 @@
 [submodule "FreeRTOS/Source"]
 	path = FreeRTOS/Source
 	url = git@github.com:IELLC/FreeRTOS-Kernel-for-preferred-flamescanner.git
-	branch = preferred-flamescanner
+	branch = preferred-flamescanner-upstream-freertos
 [submodule "FreeRTOS/Test/CMock/CMock"]
 	path = FreeRTOS/Test/CMock/CMock
 	url = https://github.com/ThrowTheSwitch/CMock.git
